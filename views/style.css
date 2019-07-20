@@ -1,0 +1,31 @@
+body {
+    background-color: lightblue;
+    
+}
+
+h2 {
+    text-align: center;
+    color: darkblue;
+}
+
+.submit, .input, .byGoogle {
+    float: right;
+    margin-right: 60px;
+}
+
+p {
+    margin-left: 40px;
+}
+.main {
+    border: solid 1px black;
+    background-color: lightseagreen;
+    color: darkblue;
+    width: 400px;
+    height: 200px;
+    margin: auto;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.main2 {
+    text-align: center;
+}
